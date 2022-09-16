@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.magiche3.plugintemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.magiche3.plugintemplate.MyBundle
 
 class MyApplicationService {
 
